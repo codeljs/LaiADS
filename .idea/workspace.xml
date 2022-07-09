@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e28e14a-a56e-40bd-b874-336e24d13fcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution_10_QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_13_APowerB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_4_SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_624_Fibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution_9_MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_4_SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_4_SelectionSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657393564084</updated>
-      <workItem from="1657393569875" duration="9240000" />
+      <workItem from="1657393569875" duration="9613000" />
     </task>
     <servers />
   </component>
