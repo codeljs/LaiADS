@@ -15,7 +15,7 @@ public class Solution_4_SelectionSort {
 
         }
         return array;
-        
+
 
     }
 }

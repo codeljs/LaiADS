@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e28e14a-a56e-40bd-b874-336e24d13fcb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LaiADS/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LaiADS/Solution_10_QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LaiADS/Solution_10_QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LaiADS/Solution_4_SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LaiADS/Solution_4_SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LaiADS/Solution_9_MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LaiADS/Solution_9_MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_10_QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_10_QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution_4_SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_4_SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution_9_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_9_MergeSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution_56_Bipartite">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LaiADS" />
@@ -52,8 +60,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_56_Bipartite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_56_Bipartite" />
+      <module name="LaiADS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_9_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_9_MergeSort" />
+      <module name="LaiADS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_56_Bipartite" />
+        <item itemvalue="Application.Solution_9_MergeSort" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -68,7 +92,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657393564084</updated>
-      <workItem from="1657393569875" duration="9613000" />
+      <workItem from="1657393569875" duration="12442000" />
+      <workItem from="1657703403980" duration="801000" />
+      <workItem from="1658014214231" duration="21000" />
+      <workItem from="1658951426939" duration="338000" />
+      <workItem from="1660050380362" duration="1212000" />
     </task>
     <servers />
   </component>
@@ -80,7 +108,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

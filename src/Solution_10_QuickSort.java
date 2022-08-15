@@ -5,21 +5,17 @@ public class Solution_10_QuickSort {
         if(array == null || array.length<=1)return array;
         sort(array, 0, array.length-1);
         return array;
-
-
     }
 
     private void sort(int[] array, int left, int right){
         //corner case
         if(left >= right)return;
-        //pivot
+        //pivot   
         int position = pivot(array,left,right);
         sort(array,left,position-1);
         sort(array,position+1,right);
-
-
-
     }
+
     private int pivot(int[] array, int left,int right){
         int i = left, j = right-1;
         while(i<=j){
