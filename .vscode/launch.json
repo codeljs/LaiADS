@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LargestPadrolineNumberInString",
+            "request": "launch",
+            "mainClass": "LargestPadrolineNumberInString",
+            "projectName": "LaiADS_ea330b56"
+        },
+        {
+            "type": "java",
+            "name": "Launch micro",
+            "request": "launch",
+            "mainClass": "micro",
+            "projectName": "LaiADS_ea330b56"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolutionFilter",
+            "request": "launch",
+            "mainClass": "PolutionFilter",
+            "projectName": "LaiADS_ea330b56"
+        },
+        {
+            "type": "java",
             "name": "Launch Solution",
             "request": "launch",
             "mainClass": "Solution",
