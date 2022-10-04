@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "LaiADS_ece41a90"
+        },
+        {
+            "type": "java",
             "name": "Launch LargestPadrolineNumberInString",
             "request": "launch",
             "mainClass": "LargestPadrolineNumberInString",
